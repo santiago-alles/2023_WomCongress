@@ -1,8 +1,6 @@
 Representación de Mujeres en la Cámara de Diputados: Instituciones, Partidos y Actitudes en Argentina, 1983-2023
 ==============================================
-<p><i>Revista SAAP</i>, 2023</br >
-Vol. 17, Num. 2, pp. 265-297</br >
-ISSN: 1666-7883</br >
+<p><i>Revista SAAP</i>, 2023, 17 (2): 265-297</br >
 DOI: 10.46468/rsaap.17.2.a3
 
 Replication Data
@@ -35,4 +33,4 @@ Suggested Citation
 
 When using this dataset, please cite:
 
-<b>Alles</b>, Santiago. 2023. Representación de Mujeres en la Cámara de Diputados: Instituciones, Partidos y Actitudes en Argentina, 1983-2023. <i>Revista SAAP</i>, 17 (2): 265-297.
+<b>Alles</b>, Santiago. 2023. Representación de Mujeres en la Cámara de Diputados: Instituciones, Partidos y Actitudes en Argentina, 1983-2023. <i>Revista SAAP</i>, 17 (2): 265-297. https://doi.org/10.46468/rsaap.17.2.a3
